@@ -1,3 +1,2 @@
 # clash-of-clans
-:j
-:p 👍👍👍
+HELLO GIT-WORLD
