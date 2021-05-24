@@ -1,2 +1,2 @@
-# clash-of-clans
+# Testing repository
 HELLO GIT-WORLD
